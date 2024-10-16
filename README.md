@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Ludger2603
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Full-Stack Developer | Blockchain Enthusiast
+🎓 Mahasiswa IT | Universitas Kristen Immanuel (UKRIM)
 
-<!---
-Ludger2603/Ludger2603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Halo! Nama gue [Nama Kamu], seorang mahasiswa IT aktif di UKRIM dengan passion besar dalam pengembangan aplikasi web. Gue suka ngulik di dua sisi:
+
+Backend: Node.js ⚡ | PHP 🐘
+Frontend: Tailwind CSS 🎨 | React ⚛️
+Blockchain: Mendalami smart contracts 🔗 dan teknologi terdesentralisasi.
+✨ Keahlian Utama:
+
+Backend development dengan JavaScript (Node.js) dan PHP.
+Frontend styling yang clean dan efisien pakai Tailwind CSS.
+Explore Blockchain buat implementasi sistem yang lebih aman dan transparan.
+Selain aktif ngoding, gue juga berperan sebagai pengurus dan pengajar di UKRIM Programming Club 👨‍🏫, di mana gue bantu mahasiswa baru buat lebih memahami dunia programming. Gue selalu belajar hal baru, eksplorasi teknologi, dan suka share ilmu.
+
+💡 Misi gue:
+Bangun solusi yang scalable, secure, dan impactful. Gue percaya Blockchain bakal punya peran besar dalam masa depan teknologi, nggak cuma di cryptocurrency aja, tapi juga di berbagai sektor.
+
+📂 Di GitHub, lo bisa liat proyek-proyek gue yang berfokus pada clean code, best practices, dan inovasi. Yuk, connect dan kolaborasi buat bikin sesuatu yang keren! 🚀
