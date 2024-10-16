@@ -1,7 +1,7 @@
 👨‍💻 Full-Stack Developer | Blockchain Enthusiast
 🎓 Mahasiswa IT | Universitas Kristen Immanuel (UKRIM)
 
-Halo! Nama gue [Nama Kamu], seorang mahasiswa IT aktif di UKRIM dengan passion besar dalam pengembangan aplikasi web. Gue suka ngulik di dua sisi:
+Halo! Nama gue ludgerdus, seorang mahasiswa IT aktif di UKRIM dengan passion besar dalam pengembangan aplikasi web. Gue suka ngulik di dua sisi:
 
 Backend: Node.js ⚡ | PHP 🐘
 Frontend: Tailwind CSS 🎨 | React ⚛️
